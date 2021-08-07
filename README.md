@@ -28,3 +28,12 @@ If you're working over the network, you may want to serve this to another comput
 * `--host <current_IP>`
 * `--port 80` Typical http port
 * Example: `php artisan serve --host 192.168.0.67 --port 80`
+
+#### Installing font-awesome
+
+Sometimes you just forget how to do things, so I'm putting this here as I'm just that kind of person.
+
+1. Install fontawesome-free from npm
+    * Using npm>6.14.10: `npm install --save @fortawesome/fontawesome-free`
+2. Import it in your `app.css` file
+    * `echo "@import '~@fortawesome/fontawesome-free/css/all.css';" >> resources\css\app.css`
