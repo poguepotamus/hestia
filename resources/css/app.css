@@ -3,3 +3,14 @@
 @tailwind utilities;
 
 @import '~@fortawesome/fontawesome-free/css/all.css';
+
+
+p {
+  color: #ddd;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: #f1beb0;
+  font-size: 1.25rem;
+}

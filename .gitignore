@@ -16,3 +16,18 @@ yarn-error.log
 # Editor settings
 /.vscode
 .editorconfig
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.eot
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.svg
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.ttf
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-brands-400.woff2
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.eot
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.svg
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.ttf
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-regular-400.woff2
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.eot
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.svg
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.ttf
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff
+public/fonts/vendor/@fortawesome/fontawesome-free/webfa-solid-900.woff2
